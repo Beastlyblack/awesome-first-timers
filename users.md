@@ -501,4 +501,9 @@
 - Name: Elaine Mary Rose  
   Place: Allahabad, India  
   Bio: Developer under development.   
-  GitHub: [Elaine Mary Rose](https://github.com/stickberry)    
+  GitHub: [Elaine Mary Rose](https://github.com/stickberry) 
+  
+- Name: Samuel Ibironke
+  Place: London, England
+  Bio: A Sworn Guardian.
+  Github:[Beastlyblack](https://github.com/Beastlyblack)
